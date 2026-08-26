@@ -72,7 +72,7 @@ Section 3 of the [Project Charter](FOCUS_-_Membership_Agreement_Package_for_use.
 
 ### Security policy
 
-Security concerns that impact repos under the [FOCUS GitHub org](https://github.com/FinOps-Open-Cost-and-Usage-Spec) (including reference implementations and official tools) may be responsibly disclosed to the Steering Committee via any current Steering Committee member, with the expectation that they will be discussed and triaged by the Steering Committee as a whole. You may reach a subset of current Steering Committee members via [focus@finops.org](mailto:focus@finops.org).
+Security concerns that impact repos under the [FOCUS GitHub org](https://github.com/Unity-Billal-mesloub) (including reference implementations and official tools) may be responsibly disclosed to the Steering Committee via any current Steering Committee member, with the expectation that they will be discussed and triaged by the Steering Committee as a whole. You may reach a subset of current Steering Committee members via [focus@finops.org](mailto:focus@finops.org).
  
 Our goal is to provide complete, accurate, and actionable disclosures once a reported issue has been sufficiently understood and there has been a reasonable opportunity to deploy fixes responsibly. At no time should a Steering Committee member release information on a pre-disclosed vulnerability to anyone besides other Steering Committee members, Foundation staff, legal counsel, or required authorities unless there is consensus to do so. A Steering Committee member may call for a formal vote to determine an appropriate path forward at any time in the process, if needed.
 
