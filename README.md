@@ -10,7 +10,7 @@ Project resources are provided by the [FinOps Foundation](https://www.finops.org
 
 ## Contributing to FOCUS repositories
 
-All FOCUS repositories use EasyCLA to capture Contribution Agreements. Before making any contributions, you must sign the FOCUS [Membership agreement](FOCUS_-_Membership_Agreement_Package_for_use.pdf).
+All FOCUS repositories use EasyCLA to capture Contribution Agreements. Before making any contributions, you must sign the FOCUS [Membership agreement](membership-participation-agreement).
 
 To initiate the signature process please open a PR against the [EasyCLA repo](https://github.com/Unity-Billal-mesloub/EasyCLA). The EasyCLA bot will block the merge if we still need a membership agreement from you.
 
