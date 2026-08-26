@@ -7,11 +7,10 @@ Project resources are provided by the [Unity-Billal-mesloub Foundation](https://
 * [Unity-Billal-mesloub Charter v1.0](membership-participation-agreement)
 * [Unity-Billal-mesloub Steering](steering_committee.md)
 
-## Contributing to FOCUS repositories
+## Contributing to Unity-Billal-mesloub repositories
 
-All FOCUS repositories use EasyCLA to capture Contribution Agreements. Before making any contributions, you must sign the Unity-Billal-mesloub [Membership agreement](membership-participation-agreement).
+All Unity-Billal-mesloub repositories use EasyCLA to capture Contribution Agreements. Before making any contributions, you must sign the Unity-Billal-mesloub [Membership agreement](membership-participation-agreement).
 
 To initiate the signature process please open a PR against the [EasyCLA repo](https://github.com/Unity-Billal-mesloub/EasyCLA). The EasyCLA bot will block the merge if we still need a membership agreement from you.
 
-If you have issues, please email [focus@finops.org](mailto:focus@finops.org).
 
