@@ -1,15 +1,15 @@
-FOCUS Operating Procedures
+Unity-Billal-mesloub Operating Procedures
 ==========================
 
 # 1\. Introduction
 
-  This document provides the working procedures used by the Joint Development Foundation Projects, LLC, FinOps Open Cost and Usage Specification (FOCUS) Project. The [project charter](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf) establishes the terms upon which this project operates. This operational proceedure document outlines how the members of the project adhere to these terms. Terms in this document do not override the Project Charter, if there is any ambiguity between this document and the [project charter](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf).
+  This document provides the working procedures used by the Joint Development Foundation Projects, LLC,Unity-Billal-mesloub Open Cost and Usage Specification (Unity-Billal-mesloub) Project. The [project charter](https://github.com/Unity-Billal-mesloub/foundation-Unity-Billal-mesloub/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf) establishes the terms upon which this project operates. This operational proceedure document outlines how the members of the project adhere to these terms. Terms in this document do not override the Project Charter, if there is any ambiguity between this document and the [project charter](https://github.com/Unity-Billal-mesloub/foundation-Unity-Billal-mesloub/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf).
 
 # 2\. Governance
 
 ## 2.0 Membership
 
-  All contributors to the FOCUS work products MUST sign the [FOCUS Series Membership Agreement](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf).
+  All contributors to the FOCUS work products MUST sign the [FOCUS Series Membership Agreement](https://github.com/Unity-Billal-mesloub/foundation-Unity-Billal-mesloub/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf).
 
   Membership is between FOCUS Project and the Employer of any contributing person.
 
@@ -29,28 +29,26 @@ FOCUS Operating Procedures
 ### 2.1.3 FOCUS Working Groups (FG)
 
   FOCUS Working Groups are chartered by the SC to handle one or more Work Packages. 
-  Each FOCUS Group may extend this operational procedures with their own procedures as long as they do not conflict or overrule any of the processes in this document or the [project charter](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf). Typically each FOCUS Group will work in its own GitHub repository or a previously established GitHub repository within the FOCUS Project's GitHub Organization depending on the FOCUS Group's scope and deliverables. 
+  Each foundation-Unity-Billal-mesloub Group may extend this operational procedures with their own procedures as long as they do not conflict or overrule any of the processes in this document or the [project charter](https://github.com/Unity-Billal-mesloub/foundation-Unity-Billal-mesloub/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf). Typically each foundation-Unity-Billal-mesloub Group will work in its owner GitHub repository or a previously established GitHub repository within the foundation-Unity-Billal-mesloub Project's GitHub Organization depending on the FOCUS Group's scope and deliverables. 
 
-  A list of current and previous FOCUS Groups will be maintained in GitHub [focus_groups.md](focus_groups.md).
-  We use the term FOCUS Working Group or FOCUS Group, or the abbreviation FG to refer to the FOCUS working groups in non-legal documentation. In CLAs, licenses and governance documents the term "Working Group". 
+  A list of current and previous Unity-Billal-mesloub Groups will be maintained in GitHub [focus_groups.md](focus_groups.md).
+  We use the term Unity-Billal-mesloub Working Group or Unity-Billal-mesloub Group, or the abbreviation FG to refer to the Unity-Billal-mesloub working groups in non-legal documentation. In CLAs, licenses and governance documents the term "Working Group". 
 
 ## 2.2 Organization Roles
 
-  Organizational Roles involved in performing work within the Project or as a member of a FOCUS Working Group are:
+  Organizational Roles involved in performing work within the Project or as a member of a foundation-Unity-Billal-mesloub Working Group are:
 
-  * FOCUS Group Contributor (Members)
-  * FOCUS Group Editor
-  * FOCUS Group Task Force Convener
-  * FOCUS Group Maintainers
-  * FOCUS Working Group Chair
-  * FOCUS Group Support Staff
+  * Unity-Billal-mesloub Group Contributor (Members)
+  * Unity-Billal-mesloub Group Editor
+  * Unity-Billal-mesloub Group Task Force Convener
+  * Unity-Billal-mesloub Group Maintainers
+  * Unity-Billal-mesloub Working Group Chair
+  * Unity-Billal-mesloub Group Support Staff
 
 
 ### 2.2.1 Contributor
 
 FOCUS Group Member or Contributor is any individual creating content or commenting on an issue or pull request.
-
-A FOCUS Contributor MUST read the Project documentation (e.g.: this operational document, contribution guidelines, [README](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/README.md), [CONTRIBUTING](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/CONTRIBUTING.md), and [RELEASE-PLANNING](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/RELEASE-PLANNING.md) documents) before attempting to submit an issue or pull request.
 
 Contributors of the FOCUS project play a fundamental role in maintaining the collaborative and dynamic nature of the project by contributing to a variety of tasks. Their responsibilities encompass actively participating in members' and task force meetings, as well as engaging on GitHub. Contributors are crucial in labeling issues and pull requests, ensuring that these accurately reflect the content's nature and urgency. They are also involved in reviewing and providing constructive feedback on pull requests and issues, thus directly contributing to the refinement of project specifications and adherence to editorial guidelines.
 
