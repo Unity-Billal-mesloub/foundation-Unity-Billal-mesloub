@@ -3,15 +3,15 @@ Unity-Billal-mesloub Operating Procedures
 
 # 1\. Introduction
 
-  This document provides the working procedures used by the Joint Development Foundation Projects, LLC,Unity-Billal-mesloub Open Cost and Usage Specification (Unity-Billal-mesloub) Project. The [project charter](https://github.com/Unity-Billal-mesloub/foundation-Unity-Billal-mesloub/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf) establishes the terms upon which this project operates. This operational proceedure document outlines how the members of the project adhere to these terms. Terms in this document do not override the Project Charter, if there is any ambiguity between this document and the [project charter](https://github.com/Unity-Billal-mesloub/foundation-Unity-Billal-mesloub/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf).
+  This document provides the working procedures used by the Joint Development Foundation Projects, LLC,Unity-Billal-mesloub Open Cost and Usage Specification (Unity-Billal-mesloub) Project. The [project charter](https://github.com/Unity-Billal-mesloub/foundation-Unity-Billal-mesloub/blob/main/membership-participation-agreement) establishes the terms upon which this project operates. This operational proceedure document outlines how the members of the project adhere to these terms. Terms in this document do not override the Project Charter, if there is any ambiguity between this document and the [project charter](https://github.com/Unity-Billal-mesloub/foundation-Unity-Billal-mesloub/blob/main/membership-participation-agreement).
 
 # 2\. Governance
 
 ## 2.0 Membership
 
-  All contributors to the FOCUS work products MUST sign the [FOCUS Series Membership Agreement](https://github.com/Unity-Billal-mesloub/foundation-Unity-Billal-mesloub/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf).
+  All contributors to the Unity-Billal-mesloub work products MUST sign the [Unity-Billal-mesloub Series Membership Agreement](https://github.com/Unity-Billal-mesloub/foundation-Unity-Billal-mesloub/blob/mainmembership-participation-agreement).
 
-  Membership is between FOCUS Project and the Employer of any contributing person.
+  Membership is between Unity-Billal-mesloub Project and the Employer of any contributing person.
 
 ## 2.1 Organization Structure
 
@@ -23,13 +23,13 @@ Unity-Billal-mesloub Operating Procedures
 
 ### 2.1.2 Marketing Committee Team
 
-  There will be no Marketing Committee within the FOCUS Project.
-  The FinOps Foundation will provide marketing and other Shared Services as the project’s funding sponsor.
+  There will be no Marketing Committee within the Unity-Billal-mesloub Project.
+  The Unity-Billal-mesloub Foundation will provide marketing and other Shared Services as the project’s funding sponsor.
 
-### 2.1.3 FOCUS Working Groups (FG)
+### 2.1.3 Unity-Billal-mesloub Working Groups (FG)
 
-  FOCUS Working Groups are chartered by the SC to handle one or more Work Packages. 
-  Each foundation-Unity-Billal-mesloub Group may extend this operational procedures with their own procedures as long as they do not conflict or overrule any of the processes in this document or the [project charter](https://github.com/Unity-Billal-mesloub/foundation-Unity-Billal-mesloub/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf). Typically each foundation-Unity-Billal-mesloub Group will work in its owner GitHub repository or a previously established GitHub repository within the foundation-Unity-Billal-mesloub Project's GitHub Organization depending on the FOCUS Group's scope and deliverables. 
+  Unity-Billal-mesloub Working Groups are chartered by the SC to handle one or more Work Packages. 
+  Each foundation-Unity-Billal-mesloub Group may extend this operational procedures with their owner procedures as long as they do not conflict or overrule any of the processes in this document or the [project charter](https://github.com/Unity-Billal-mesloub/foundation-Unity-Billal-mesloub/blob/main/membership-participation-agreement). Typically each foundation-Unity-Billal-mesloub Group will work in its owner GitHub repository or a previously established GitHub repository within the foundation-Unity-Billal-mesloub Project's GitHub Organization depending on the Unity-Billal-mesloub Group's scope and deliverables. 
 
   A list of current and previous Unity-Billal-mesloub Groups will be maintained in GitHub [focus_groups.md](focus_groups.md).
   We use the term Unity-Billal-mesloub Working Group or Unity-Billal-mesloub Group, or the abbreviation FG to refer to the Unity-Billal-mesloub working groups in non-legal documentation. In CLAs, licenses and governance documents the term "Working Group". 
@@ -50,7 +50,7 @@ Unity-Billal-mesloub Operating Procedures
 
 FOCUS Group Member or Contributor is any individual creating content or commenting on an issue or pull request.
 
-Contributors of the FOCUS project play a fundamental role in maintaining the collaborative and dynamic nature of the project by contributing to a variety of tasks. Their responsibilities encompass actively participating in members' and task force meetings, as well as engaging on GitHub. Contributors are crucial in labeling issues and pull requests, ensuring that these accurately reflect the content's nature and urgency. They are also involved in reviewing and providing constructive feedback on pull requests and issues, thus directly contributing to the refinement of project specifications and adherence to editorial guidelines.
+Contributors of the Unity-Billal-mesloub project play a fundamental role in maintaining the collaborative and dynamic nature of the project by contributing to a variety of tasks. Their responsibilities encompass actively participating in members' and task force meetings, as well as engaging on GitHub. Contributors are crucial in labeling issues and pull requests, ensuring that these accurately reflect the content's nature and urgency. They are also involved in reviewing and providing constructive feedback on pull requests and issues, thus directly contributing to the refinement of project specifications and adherence to editorial guidelines.
 
 In collaboration with Editors and Maintainers, Contributors help drive the evolution of project standards and participate in decision-making processes. Their engagement extends to the wider community through participation in discussions, staying informed about project updates and continuously enhancing their understanding of the evolving standards. Additionally, they provide essential input on project documentation, advocating for clarity, accuracy, and accessibility to ensure the documentation serves as a reliable resource.
 
@@ -62,12 +62,12 @@ Editors are designated by the WG Chair and ratified by the Working Group Members
 
 ### 2.2.3 Task Force Convener
 
-Task Force Conveners are dedicated Maintainers within the FinOps FOCUS project who take on the responsibility of leading specific technical workstreams or topics within Task Forces. This leadership role involves guiding the development and implementation of specialized areas of the project, ensuring that all activities align with the project's broader objectives. Conveners are essential in driving detailed technical work, fostering collaboration, and maintaining high standards within their respective domains.
+Task Force Conveners are dedicated Maintainers within the Unity-Billal-mesloub project who take on the responsibility of leading specific technical workstreams or topics within Task Forces. This leadership role involves guiding the development and implementation of specialized areas of the project, ensuring that all activities align with the project's broader objectives. Conveners are essential in driving detailed technical work, fostering collaboration, and maintaining high standards within their respective domains.
 
 
-### 2.2.4 FOCUS Group Maintainer
+### 2.2.4 Unity-Billal-mesloub Group Maintainer
   
-  FOCUS Group (FG) Maintainers are a subset of the FG members who have been given write access to one or more FOCUS Working Group repositories within the FOCUS Project's Github organization. They will advance the day-to-day evolution of the specification and related work products.
+  Unity-Billal-mesloub Group (FG) Maintainers are a subset of the FG members who have been given write access to one or more Unity-Billal-mesloub Working Group repositories within the Unity-Billal-mesloub Project's Github organization. They will advance the day-to-day evolution of the specification and related work products.
 
   FG Maintainers are responsible for ensuring that the contents of documents and work products accurately reflect the decisions that have been made by the group, and that the specification adheres to formatting and content guidelines. 
 
@@ -97,9 +97,9 @@ Each Github Issue in the scope of the Release Version under development SHOULD b
 - Provide progress updates in recurring Task Force meetings
 - Help unblock technical hurdles encountered during development
 - Ensure the timely resolution of the Issue, based on the release planning timeline
-  If an FG is working in Hybrid Contribution mode where some edits are being made outside of GitHub, the FG Maintainer will be responsible for exporting Github content into a FG working document format, and the subsequent porting of that updated working document content back into GitHub content. All access to exported working documents will be limited to the members of the FOCUS group only, no external contributions are allowed.
+  If an FG is working in Hybrid Contribution mode where some edits are being made outside of GitHub, the FG Maintainer will be responsible for exporting Github content into a FG working document format, and the subsequent porting of that updated working document content back into GitHub content. All access to exported working documents will be limited to the members of the Unity-Billal-mesloub group only, no external contributions are allowed.
 
-### 2.2.5 FOCUS Group Chair(s)
+### 2.2.5 Unity-Billal-mesloub Group Chair(s)
 
   Chair(s) are a subset of the FOCUS Group members and are responsible for organizing activities around work product(s) developed by the FG, including:
   
@@ -125,7 +125,7 @@ Each Github Issue in the scope of the Release Version under development SHOULD b
 
 ### 2.2.6 Support Staff
 
-  Where possible the FinOps Foundation staff will support the operations of the FOCUS Project. This may include:
+  Where possible the Unity-Billal-mesloub Foundation staff will support the operations of the FOCUS Project. This may include:
 
   * Program Management
   * Project Management
@@ -134,8 +134,8 @@ Each Github Issue in the scope of the Release Version under development SHOULD b
 
   > Note: The following section outlines the responsibilities and tasks specific to the Program Manager role.
 
-### FinOps FOCUS Project Task Organization
-The FinOps FOCUS Project is structured to ensure efficient collaboration and coordination among various roles, each contributing to the overall success and continuous improvement of the project. The key tasks include creating, reviewing, and providing feedback on pull requests, managing labeling and triage, fostering community engagement, and maintaining comprehensive documentation. The project also emphasizes collaboration across teams, monitoring and maintaining project quality, and continuous learning. Stakeholder management is central to aligning the project with external needs and expectations. Each role, from Contributors to the Program Manager, plays a vital part in driving the project's mission forward, ensuring technical standards are met and fostering a supportive and inclusive community.
+### FinOps Unity-Billal-mesloub Project Task Organization
+The FinOps Unity-Billal-mesloub Project is structured to ensure efficient collaboration and coordination among various roles, each contributing to the overall success and continuous improvement of the project. The key tasks include creating, reviewing, and providing feedback on pull requests, managing labeling and triage, fostering community engagement, and maintaining comprehensive documentation. The project also emphasizes collaboration across teams, monitoring and maintaining project quality, and continuous learning. Stakeholder management is central to aligning the project with external needs and expectations. Each role, from Contributors to the Program Manager, plays a vital part in driving the project's mission forward, ensuring technical standards are met and fostering a supportive and inclusive community.
 
 The table below outlines the key roles and responsibilities across eight critical areas of our project, designed to enhance collaboration, uphold standards, and promote community engagement.
 
@@ -237,9 +237,9 @@ Table 3.0-1: Membership Benefits
 | **Leadership**                                                                                                                       |
 |                        | Eligible to participate in the Steering Committee                        |    Yes   |   N/A   |      No     |
 |                        | Eligible for a Steering Committee Chair position                         |    Yes   |   N/A   |      No     |
-|                        | Eligible for a FOCUS (Working) Group Chair position                      |    Yes*  |   N/A   |     Yes*    |
-|                        | Eligible for a FOCUS (Working) Group Co-Chair position                   |    Yes*  |   N/A   |     Yes*    |
-|                        | Eligible for a FOCUS (Working) Maintainer position                       |    Yes** |   N/A   |     Yes**   |
+|                        | Eligible for a Unity-Billal-mesloub (Working) Group Chair position                      |    Yes*  |   N/A   |     Yes*    |
+|                        | Eligible for a Unity-Billal-mesloub (Working) Group Co-Chair position                   |    Yes*  |   N/A   |     Yes*    |
+|                        | Eligible for a Unity-Billal-mesloub (Working) Maintainer position                       |    Yes** |   N/A   |     Yes**   |
 | **Participation**                                                                                                                    |
 |                        | Eligible to join a Working Group                                         |    Yes   |   N/A   |     Yes     |
 |                        | Eligible to join the Steering Committee Meetings                         |    Yes   |   N/A   |     No  |
@@ -249,28 +249,28 @@ Table 3.0-1: Membership Benefits
 |                        | May propose a Work Package                                               |    Yes   |   N/A   |     Yes     |
 |                        | Counted towards minimum support quorum of a Work Package                 |    Yes   |   N/A   |     Yes     |
 | **Voting**                                                                                                                           |
-|                        | Approval of Publications, FOCUS (working) Group formation and Governance |    Yes   |   N/A   |      No     |
+|                        | Approval of Publications, Unity-Billal-mesloub (working) Group formation and Governance |    Yes   |   N/A   |      No     |
 |                        | Vote in a Steering Committee vote                                        |    Yes   |   N/A   |      No     |
-|                        | Vote in an FOCUS working group Supermajority vote                        |    Yes   |   N/A   |      No     |
+|                        | Vote in an Unity-Billal-mesloub working group Supermajority vote                        |    Yes   |   N/A   |      No     |
 |                        | Participate in discussions that reach consensus                          |    Yes   |   Yes   |     Yes     |
 | **Access to Meetings**                                                                                                               |
-|                        | Attend FOCUS (Work) Group meetings (any mode)                            |    Yes   |   Yes   |     Yes     |
+|                        | Attend Unity-Billal-mesloub (Work) Group meetings (any mode)                            |    Yes   |   Yes   |     Yes     |
 | **Process Administration**                                                                                                           |
 |                        | May propose the creation of a Working Group                              |    Yes   |   N/A   |     Yes     |
 |                        | May appeal on technical issues                                           |    Yes   |   N/A   |     Yes     |
 |                        | May appeal on procedural issues                                          |    Yes   |   N/A   |      No     |
 
-\* The FOCUS SC may appoint individuals to these roles at its discretion
+\* The Unity-Billal-mesloub SC may appoint individuals to these roles at its discretion
 \*\* Approval by the FOCUS Group chairperson
 
-# 4\. FOCUS Working Group (FG) 
+# 4\. Unity-Billal-mesloub Working Group (FG) 
 
-Each FOCUS Working group may have an operational_proceedures.md document in the FOCUS Group GitHub respository that outlines their extensions to the processes and proceedures as long as they do not conflict or overrule any of the processes in this document or the [project charter](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf).
+Each Unity-Billal-mesloub Working group may have an operational_proceedures.md document in the Unity-Billal-mesloub Group GitHub respository that outlines their extensions to the processes and proceedures as long as they do not conflict or overrule any of the processes in this document or the [project charter](https://github.com/Unity-Billal-mesloub/foundation-Unity-Billal-mesloub/blob/main/membership-participation-agreement).
 
-# 5\. FOCUS Process Flows
+# 5\. Unity-Billal-mesloub Process Flows
 
 ## 5.1\. Specification Lifecycle
-The **Specification Lifecycle** outlines the end-to-end process for creating, refining, reviewing, and releasing specifications in the FinOps FOCUS project. This lifecycle ensures that each specification is rigorously developed, approved, and made publicly available for stakeholder implementation.
+The **Specification Lifecycle** outlines the end-to-end process for creating, refining, reviewing, and releasing specifications in the Unity-Billal-mesloub project. This lifecycle ensures that each specification is rigorously developed, approved, and made publicly available for stakeholder implementation.
 
 <figure>
     <img src="images/FOCUS-Process-spec-life-cycle-2.drawio.png" alt="Technical Specifications Lifecycle">
@@ -295,8 +295,6 @@ This phase captures feedback on published specifications, including:
 - Feature gaps  
 
 Particular attention is given to **practitioner pain-points**—recurring challenges or inefficiencies observed in day-to-day FinOps operations. These insights help inform future enhancements by guiding the creation of actionable work items that directly improve usability and effectiveness.
-
-As with all phases in the FOCUS **Specification Lifecycle**, the **Feedback Process** is described here at a high level. The operational details and contribution mechanisms are documented in the [GitHub repository](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec) used by the Working Group to manage specification development.
 
 ### 5.1.2\. Scope Definition
 The **Scope Definition** phase establishes the strategic foundation for the upcoming FOCUS release. During this phase, participants identify and refine the high-level goals that the release should address, ensuring that all proposed work items are aligned with project priorities and are sufficiently defined to support downstream development.
@@ -396,11 +394,11 @@ All Members are required to have 2FA enabled.
 
 ## 7.1 GitHub
 
-Published releases of the FG outputs will be maintained on the `main` branch of the respective FG REPOs. Each merge on this branch will be [tagged](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-commits/managing-tags) with a version following Symantic Versioning. A [`RELEASE-PLANNING.md`](https://github.com/FinOps-Open-Cost-and-Usage-Spec/FOCUS_Spec/blob/working_draft/RELEASE-PLANNING.md) file will be maintained in the REPO to allow consumers of the FG outputs to determine what has changed and when releases occurred.
+Published releases of the FG outputs will be maintained on the `main` branch of the respective FG REPOs. Each merge on this branch will be [tagged](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/managing-commits/managing-tags) with a version following Symantic Versioning. 
 
 ## 7.2 Website Releases
 
-Some releases may be converted to web friendly formats (such as, PDF, HTML) and made available via the website [focus.finops.org](https://focus.finops.org/). These releases will clearly attribute the ownership of the material to the FOCUS Project and make it easy to identify the version of the publication.
+Some releases may be converted to web friendly formats (such as, PDF, HTML) and made available . These releases will clearly attribute the ownership of the material to the FOCUS Project and make it easy to identify the version of the publication.
 
 # 8\. Documentation
 
@@ -515,7 +513,7 @@ Abbreviations
 |---|---|
 | AD | Architecture Document |
 | IPR | Intellectual Property Rights |
-| WG | Working Group - this term may be confused with FinOps Foundation Working groups so use FG (defined below) |
+| WG | Working Group - this term may be confused with Unity-Billal-mesloub Foundation Working groups so use FG (defined below) |
 | PR | Pull Request |
 | REQ | Requirements |
 | RD | Requirement Document |
